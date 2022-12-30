@@ -1,0 +1,7 @@
+{
+    "port": "/dev/tty.usbmodem14401",
+    "configuration": "mode=on",
+    "board": "arduino:megaavr:nona4809",
+    "programmer": "medbg",
+    "sketch": "Sequencer.ino"
+}
